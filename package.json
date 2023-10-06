@@ -16,7 +16,7 @@
     "node",
     "js"
   ],
-  "author": "Federico Frasquet <federicofrasquet@gmail.com> (https://esfredson.github.io)",
+  "author": "Federico Frasquet (https://esfredson.github.io)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/esfredson/introduccion-node-js/issues"
