@@ -4,8 +4,10 @@ module.exports = {
     },
     holaPersonalizado: function (nombre) {
         console.log(`Hola ${ nombre }`);
+        // introducir cualquier nombre
     },
     holaAlCursoNPM: function() {
         console.log("Hola al curso NPM!!!!");
+        
     }
 }
